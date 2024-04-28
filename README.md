@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![IvanSheichuk profile views](https://u8views.com/api/v1/github/profiles/124913211/views/day-week-month-total-count.svg)](https://u8views.com/github/IvanSheichuk)
+
+
 <!--
 **IvanSheichuk/IvanSheichuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
